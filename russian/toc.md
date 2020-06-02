@@ -1,4 +1,4 @@
-# [Mass braille distribution guide](Руководство%20по%20выпуску%20брайлевских%20изданий%20массового%20распространения.pdf)
+# [Guidelines for edition of mass-distribution braille publications](Руководство%20по%20выпуску%20брайлевских%20изданий%20массового%20распространения.pdf)
 
 ## Table of contents
 
